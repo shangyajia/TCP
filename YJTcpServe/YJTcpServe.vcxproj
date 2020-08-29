@@ -142,6 +142,7 @@
     <ClCompile Include="YJTcpServe.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CELLTimestamp.hpp" />
     <ClInclude Include="YJTcpServe.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
